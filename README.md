@@ -1,4 +1,4 @@
-# Stopwatch with Lap Functionality - React App
+# stopWatch
 
 ## Overview:
 
