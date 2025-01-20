@@ -10,7 +10,7 @@ The stopwatch has the following functionality:
 -   Reset
 -   Lap Time Tracking
 
-(Live Demo)[https://stopdotwatch.netlify.app]
+[Live Demo](https://stopdotwatch.netlify.app)
 
 ## Features:
 
